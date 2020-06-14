@@ -58,7 +58,7 @@ def update_result(result, unit_to_result)
 	[result,'.', unit_to_result].join("")
 end
 
-#--------- programa
+# executing calc 
 puts "Calculo de raiz quadrada"
 
 puts "Digite um numero para saber a raiz quadrada"
